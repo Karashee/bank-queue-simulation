@@ -14,7 +14,6 @@ import java.awt.HeadlessException;
  * Generates random inter-arrival and service times, computes queue metrics,
  * and displays results through terminal output, CSV file, and visualization.
  * 
- * Author: Andrew Karanja
  */
 public class BankQueueSimulation {
     
