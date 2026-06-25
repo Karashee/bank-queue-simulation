@@ -290,9 +290,7 @@ This file can be opened in Excel, Google Sheets, or any spreadsheet software for
 bank-queue-simulation/
 ├── README.md
 ├── BankQueueSimulation.java
-├── BankQueueSimulationTest.java
 ├── simulation_results.csv
-├── SUMMARY.md
 └── screenshots/
     ├── graph-output.png
     ├── terminal-output.png
@@ -316,24 +314,6 @@ bank-queue-simulation/
 
 ---
 
-## Optional Testing
-
-The project also includes an optional test file:
-
-```text
-BankQueueSimulationTest.java
-```
-
-To compile and run the tests:
-
-```bash
-javac BankQueueSimulationTest.java
-java BankQueueSimulationTest
-```
-
-The tests validate key correctness properties of the queue simulation logic, including arrival time calculation, service start time, waiting time, service end time, server idle time, and summary statistic consistency.
-
----
 
 ## Notes
 
